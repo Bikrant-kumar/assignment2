@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ItemList test ItemList with snapshot 1`] = `
+Array [
+  <div
+    className="MuiBox-root MuiBox-root-3"
+  >
+    <div
+      className="MuiBox-root MuiBox-root-4"
+    >
+      MENU
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12"
+    />
+  </div>,
+  " ",
+]
+`;

@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ItemCard test ItemCard with snapshot 1`] = `
+<div
+  className="MuiPaper-root MuiCard-root makeStyles-root-5 MuiPaper-elevation1 MuiPaper-rounded"
+>
+  <div
+    className="MuiCardContent-root"
+  >
+    <img
+      alt="Contemplative Reptile"
+      className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img"
+      height="140"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZdsgv_wC5-CzghxHJuRbluRRVbkHuvHDrrA&usqp=CAU"
+      title="Sarson Da Saag"
+    />
+    <h2
+      className="MuiTypography-root makeStyles-reviewIcon-6 MuiTypography-h5 MuiTypography-gutterBottom"
+    >
+      <div
+        className="MuiBox-root MuiBox-root-8"
+      >
+        Sarson Da Saag
+      </div>
+    </h2>
+    <p
+      className="MuiTypography-root makeStyles-deleteIcon-7 MuiTypography-body1"
+    >
+      <button
+        className="MuiButtonBase-root MuiIconButton-root"
+        disabled={false}
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiIconButton-label"
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root"
+            focusable="false"
+            onClick={[Function]}
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z"
+            />
+          </svg>
+        </span>
+      </button>
+    </p>
+    <p
+      className="MuiTypography-root makeStyles-reviewIcon-6 MuiTypography-body1 MuiTypography-colorTextSecondary"
+    >
+      ₹
+      100
+    </p>
+  </div>
+</div>
+`;

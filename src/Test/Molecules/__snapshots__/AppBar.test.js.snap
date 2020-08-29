@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DenseAppBar test AppBar with snapshot 1`] = `
+<header
+  className="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary makeStyles-root-5 MuiPaper-elevation4"
+>
+  <div
+    className="MuiToolbar-root MuiToolbar-dense MuiToolbar-gutters"
+  >
+    <button
+      aria-label="menu"
+      className="MuiButtonBase-root MuiIconButton-root makeStyles-menuButton-6 MuiIconButton-edgeStart"
+      disabled={false}
+      onBlur={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiIconButton-label"
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M11 9H9V2H7v7H5V2H3v7c0 2.12 1.66 3.84 3.75 3.97V22h2.5v-9.03C11.34 12.84 13 11.12 13 9V2h-2v7zm5-3v8h2.5v8H21V2c-2.76 0-5 2.24-5 4z"
+          />
+        </svg>
+      </span>
+    </button>
+    <h5
+      className="MuiTypography-root MuiTypography-h5"
+      style={
+        Object {
+          "color": "#212121",
+        }
+      }
+    >
+      <div
+        className="MuiBox-root MuiBox-root-8"
+      >
+        MY Restaurant
+      </div>
+    </h5>
+    <div
+      className="makeStyles-displayRight-7"
+    />
+  </div>
+</header>
+`;
